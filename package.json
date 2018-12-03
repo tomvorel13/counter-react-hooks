@@ -1,7 +1,7 @@
 {
-  "name": "new",
+  "name": "react-hooks-counter",
   "version": "1.0.0",
-  "description": "",
+  "description": "Playground to explore react hooks api",
   "keywords": [],
   "main": "src/index.js",
   "dependencies": {
